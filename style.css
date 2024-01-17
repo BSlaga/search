@@ -2,26 +2,15 @@
   box-sizing: border-box;
 }
 
-:focus {
- /* TODO */
-}
-
 body {
   background: linear-gradient(to right, orange, red );
-}
-
-input {
- /* TODO */
 }
 
 .search-container {
  display: block;
  position: relative;
 }
-.search-container input,
-.search-container .suggestions {
-  /* TODO */
-}
+
 .search-container input {
  display: block;
  margin: auto;
