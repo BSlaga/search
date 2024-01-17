@@ -7,7 +7,7 @@
 }
 
 body {
-  /* TODO */
+  background: linear-gradient(to right, orange, red );
 }
 
 input {
@@ -26,7 +26,8 @@ input {
  display: block;
  margin: auto;
  margin-top: 20%;
- border: 1px solid black;
+ border: 2px solid red;
+ background-color: orange;
 }
 .search-container .suggestions {
    display: block;
@@ -53,9 +54,5 @@ ul li {
   list-style: none;
 }
 ul li:hover {
-  /* TODO */
-}
-
-input {
-   /* TODO */
+  background-color: orange;
 }
